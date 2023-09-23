@@ -33,10 +33,10 @@ async function welcome() {
     rainbowTitle.stop();
 
     console.log(`
-    ${chalk.bgBlue('HOW TO PLAY')}
-    I am a process on your computer.
-    If you get any question wrong I will be ${chalk.bgRed('killed')}
-    So get all the questions right...
+    ${chalk.bgBlueBright('HOW TO PLAY')}
+    I Am A Process On Your Terminal...
+    If You Provide Any Wrong Answer , I Will Be ${chalk.bgRed('KILLED ')} 💀
+    So Try To Give All Correct Answers...
 
   `);
 }
