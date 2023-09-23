@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [Your Name](https://pabitrabanerjee.me)
+- [Pabitra Banerjee](https://pabitrabanerjee.me)
 
 Enjoy the game and test your JavaScript knowledge! Good luck on your way to becoming a JavaScript Millionaire!
