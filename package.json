@@ -1,6 +1,6 @@
 {
     "name": "js-kbc",
-    "version": "1.0.11",
+    "version": "1.1.1",
     "description": "Who Wants To Win The JavaScript KBC ?",
     "homepage": "https://pabitrabanerjee.me",
     "type": "module",
@@ -12,7 +12,13 @@
     "scripts": {
         "start": "node ."
     },
+    "keywords": [
+        "cli",
+        "game",
+        "kbc"
+    ],
     "bin": "./index.js",
+    "license": "MIT",
     "dependencies": {
         "chalk": "^4.1.2",
         "chalk-animation": "^1.6.0",
