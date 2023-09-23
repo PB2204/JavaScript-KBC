@@ -1,6 +1,6 @@
 # JavaScript-KBC (Who Wants To Be A JavaScript Millionaire?)
 
-JavaScript-KBC is a command-line interface (CLI) based game inspired by the famous TV show "Kon Banega Corerpati")? It's designed to test your knowledge of JavaScript with a series of multiple-choice questions. You can run the game directly in your terminal using `npx` or install it as a package in your own JavaScript projects.
+JavaScript-KBC is a command-line interface (CLI) based game inspired by the famous TV show "Kon Banega Corerpati" ? It's designed to test your knowledge of JavaScript with a series of multiple-choice questions. You can run the game directly in your terminal using `npx` or install it as a package in your own JavaScript projects.
 
 ## Installation
 
