@@ -19,6 +19,10 @@ import figlet from 'figlet';
 import { createSpinner } from 'nanospinner';
 import questions from './questions/javascript.js'
 
+
+// Randomly select 15 questions from questions array.
+const selectedQuestions = questions.sort(() => 0.5 - Math.random()).slice(0, 15);
+
 let playerName;
 
 const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
@@ -85,7 +89,7 @@ function winner() {
 }
 
 const ask = async () => {
-  for (const question of questions) {
+  for (const question of selectedQuestions) {
     const ans = await inquirer.prompt(question);
     await handleAnswer(question.name === ans[question.name]);
   }
