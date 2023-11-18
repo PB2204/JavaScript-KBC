@@ -138,6 +138,15 @@ const data = [
             'To find the first element that matches a condition',
             'To sort the elements in an array',
         ],
+    },
+    {
+        name: 'Yes',
+        type: 'list',
+        message: 'Is JavaScript case-sensitive?\n',
+        choices: [
+            'Yes',
+            'No',
+        ],
     }
 ]
 
