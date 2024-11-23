@@ -25,6 +25,6 @@
         "figlet": "^1.7.0",
         "gradient-string": "^2.0.2",
         "inquirer": "^8.2.6",
-        "nanospinner": "^1.1.0"
+        "nanospinner": "^1.2.0"
     }
 }
